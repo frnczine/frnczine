@@ -1,5 +1,3 @@
-## Hi there 👋
-<!--TOP MATRIX BANNER-->
 <div align="center">
   <img src="https://vercel.app" width="100%" />
 </div>
