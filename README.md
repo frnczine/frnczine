@@ -143,7 +143,7 @@
   </h4>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=frnczine&bg_color=110e1b&color=d8b4fe&line=818cf8&point=93c5fd&area=true&area_color=231b42&hide_border=false&border_color=3b3460" width="100%" />
   <br/><br/>
-  <img src="https://raw.githubusercontent.com/frnczine/frnczine/output/github-contribution-grid-snake-dark.svg" alt="Animated Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/frnczine/frnczine/output/github-contribution-grid-snake-dark.svg?v=6" alt="Animated Cosmic Contribution Snake" width="96%" />
 </div>
 
 <div align="center">
