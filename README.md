@@ -139,9 +139,9 @@
 <div align="center">
   <h4>
     <img src="https://api.iconify.design/solar/pulse-2-linear.svg?color=%2393c5fd" width="16" height="16" align="absmiddle" />
-    &nbsp;<code>ACTIVITY TELEMETRY &amp; LIVE CONTRIBUTION GRID</code>
+    &nbsp;<code>LIVE CONTRIBUTION TELEMETRY</code>
   </h4>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frnczine&bg_color=110e1b&color=d8b4fe&line=818cf8&point=93c5fd&area=true&area_color=231b42&hide_border=false&border_color=3b3460" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frnczine&bg_color=110e1b&color=d8b4fe&line=818cf8&point=93c5fd&area=true&area_color=231b42&hide_border=false&border_color=3b3460&custom_title=Contribution%20Graph" width="100%" />
   <br/><br/>
   <img src="https://raw.githubusercontent.com/frnczine/frnczine/output/github-contribution-grid-snake-dark.svg?v=6" alt="Animated Cosmic Contribution Snake" width="96%" />
 </div>
