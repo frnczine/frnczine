@@ -36,7 +36,7 @@
       </p>
       <p>
         <img src="https://api.iconify.design/solar/alt-arrow-right-linear.svg?color=%2393c5fd" width="14" height="14" align="absmiddle" />
-        <b>Web Development:</b> Building accessible, component-driven web applications with HTML, CSS, JavaScript, TypeScript, React.js, and Node.js.
+        <b>Web Development:</b> Responsive, user-friendly, component-driven web applications with HTML, CSS, JavaScript, TypeScript, React.js, and Node.js.
       </p>
       <p>
         <img src="https://api.iconify.design/solar/alt-arrow-right-linear.svg?color=%23d8b4fe" width="14" height="14" align="absmiddle" />
