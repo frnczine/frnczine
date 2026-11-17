@@ -15,10 +15,10 @@
         &nbsp;<code>// 01. ABOUT ME</code>
       </h3>
       <p>
-        I am a <b>Bachelor of Science in Information Technology</b> undergraduate specializing in <b>Web Development</b>, passionate about crafting user-centric digital experiences that elevate usability and visual clarity.
+        I am a <b>Bachelor of Science in Information Technology</b> undergraduate specializing in <b>Web Development</b>, passionate about building user-centric web applications that enhance user experience.
       </p>
       <p>
-        With coursework in <b>Web Development</b>, <b>Graphic Design</b>, <b>Mobile Enterprise Systems</b>, and <b>Human-Computer Interaction</b>, I bridge thoughtful UI/UX design, modern frontend/backend development, and quality assurance testing.
+        With coursework in <b>Web Development</b>, <b>Graphic Design</b>, <b>Mobile Enterprise Systems</b>, and <b>Human-Computer Interaction</b>, I bridge thoughtful UI/UX design, full-stack development, and quality assurance testing.
       </p>
       <p>
         <img src="https://api.iconify.design/solar/map-point-linear.svg?color=%2393c5fd" width="15" height="15" align="absmiddle" />
