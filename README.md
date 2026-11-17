@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=1&pause=100000&color=D8B4FE&center=true&vCenter=true&width=700&height=52&lines=%2F%2F+FRNCZINE" alt="FRNCZINE Header" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=93C5FD&center=true&vCenter=true&width=720&lines=BSIT+Web+Development+%E2%80%A2+UI%2FUX+Design+%E2%80%A2+Quality+Assurance;Designing+User-Centric+Interfaces+%26+Scalable+Web+Apps;Ensuring+Software+Reliability+Through+Quality+Assurance" alt="Role Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=93C5FD&center=true&vCenter=true&width=720&lines=Web+Development+%E2%80%A2+UI%2FUX+Design+%E2%80%A2+Quality+Assurance;Designing+User-Centric+Interfaces+%26+Responsive+Web+Applications;Ensuring+Software+Reliability+Through+Quality+Assurance" alt="Role Tagline" />
 </div>
 
 <br/>
