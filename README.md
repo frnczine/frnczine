@@ -104,14 +104,10 @@
   <a href="https://www.linkedin.com/in/francine-anne-bhaunani-953a1828a/">
     <img src="https://shields.io" />
   </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://shields.io" />
-  </a>
   <a href="mailto:francine.bhaunani@gmail.com">
     <img src="https://shields.io" />
   </a>
 </div>
-
 
 <!-- BOTTOM CYBER-WAVE FOOTER -->
 <div align="center">
